@@ -2,13 +2,14 @@
 
 div {
     display: block;
+    font-family: 'Lato';
 }
 
 .block1{
     width: 1440px;
     height: 500px;
     display: flex;
-    background: #ED4C5C;
+    background-color: #ED4C5C;
 }
 
 .section1 {
@@ -19,7 +20,6 @@ div {
 .header1 {
     width: 445px;
     height: 107px;
-    font-family: 'Lato';
     font-style: normal;
     font-weight: 600;
     font-size: 36px;
@@ -29,7 +29,6 @@ div {
 
 .p1 {
     width: 445px;
-    font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -71,5 +70,39 @@ div {
     top: 94px;
 }
 
+.block2{
+    width: 1440px;
+    height: 500px;
+    display: flex;
+    background-color: #FFFFFF;
+}
 
+.section3 {
+    padding: 117px 125px 223px 176px;
+    display: inline;
+}
 
+.header2 {
+    width: 445px;
+    height: 107px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.p2 {
+    width: 434px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+}
+
+.section4 {
+    padding: 117px 165px 78px 0px;
+    display: inline;
+}
