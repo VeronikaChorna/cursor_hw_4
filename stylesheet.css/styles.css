@@ -13,7 +13,8 @@ div {
 }
 
 .section1 {
-    padding: 122px 0px 115px 165px;
+    width: 40%;
+    padding: 122px 0px 0px 165px;
     display: inline;
 }
 
@@ -47,14 +48,14 @@ div {
 }
 
 .section2 {
-    width: 830px;
+    width: 60%;
     display: inline;
     position: relative;
 }
 
 .img4 {
     position: absolute;
-    left: 81px;
+    left: 40%px;
     top: 116px;
 }
 
