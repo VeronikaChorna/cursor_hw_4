@@ -78,7 +78,7 @@ div {
 }
 
 .section3 {
-    padding: 117px 125px 223px 176px;
+    padding: 117px 0px 223px 176px;
     width: 50%;
     display: inline;
 }
@@ -104,7 +104,37 @@ div {
 }
 
 .section4 {
-    padding: 117px 165px 78px 0px;
+    padding: 117px 0px 78px 0px;
     width: 50%;
     display: inline;
+}
+
+.input {
+    height: 60px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    text-indent: 31px;
+}
+
+.row1 input {
+    width: 255px;
+}
+
+.last-in-row {
+    margin-left: 20px;
+}
+
+.row2 input {
+    width: 540px;
+    margin-top: 24px;
+}
+
+.button1 {
+    width: 160px;
+    height: 50px;
+    border-radius: 6px;
+    margin-top: 24px;
+    color: #FFFFFF;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
 }
