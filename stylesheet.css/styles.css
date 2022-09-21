@@ -70,7 +70,7 @@ div {
     top: 94px;
 }
 
-.block2{
+.block2 {
     width: 1440px;
     height: 500px;
     display: flex;
@@ -137,4 +137,66 @@ div {
     color: #FFFFFF;
     background: #ED4C5C;
     border: 1.5px solid #ED4C5C;
+}
+
+.block3 {
+    width: 1440px;
+    height: 435px;
+    display: flex;
+    margin-top: 45px;
+    background-color: #FAFAFA;
+}
+
+.section5, .section6, .section7, .section8 {
+    padding-top: 85px;
+    width: 25%;
+    display: inline;
+}
+
+.header3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+.section5 {
+    margin-left: 166px;
+}
+
+.p3, .p4, .p5, .p6, .footer2 {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #101010;
+}
+
+.p3 {
+    margin-top: 33px;
+}
+
+.footer2 {
+    margin-top: 141px;
+}
+
+ul {
+    margin-top: 28px;
+}
+
+.p5 {
+    margin-top: 33px;
+}
+
+.p6 {
+    margin-top: 11px;
+}
+
+.img7 {
+    margin-top: 21px;
+}
+
+.img8 {
+    margin-top: 33px;
 }
