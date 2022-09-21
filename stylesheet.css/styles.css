@@ -115,6 +115,8 @@ div {
     border-radius: 6px;
     border: 1px solid #333333;
     text-indent: 31px;
+    color: rgba(19, 39, 67, 0.5);
+    font-size: 16px;
 }
 
 .row1 input {
@@ -122,11 +124,25 @@ div {
 }
 
 .last-in-row {
-    margin-left: 20px;
+    margin-left: 24px;
 }
 
 .row2 input {
     width: 540px;
+    margin-top: 24px;
+}
+
+.select {
+    width: 540px;
+    height: 60px;
+    font-family: "Lato";
+    border-radius: 6px;
+    border: 1px solid #333333;
+    text-indent: 31px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
     margin-top: 24px;
 }
 
