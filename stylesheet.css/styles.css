@@ -6,7 +6,7 @@ div {
 }
 
 .block1{
-    width: 1440px;
+    width: 100%;
     height: 500px;
     display: flex;
     background-color: #ED4C5C;
@@ -53,26 +53,14 @@ div {
     position: relative;
 }
 
-.img4 {
-    position: absolute;
-    left: 40%px;
-    top: 116px;
-}
-
-.img5 {
-    position: absolute;
-    right: 216px;
-    top: 116px;
-}
-
 .img6 {
     position: absolute;
-    right: 260px;
+    margin-left: 40px;
     top: 94px;
 }
 
 .block2 {
-    width: 1440px;
+    width: 100%;
     height: 500px;
     display: flex;
     background-color: #FFFFFF;
@@ -157,7 +145,7 @@ div {
 }
 
 .block3 {
-    width: 1440px;
+    width: 100%;
     height: 435px;
     display: flex;
     margin-top: 45px;
